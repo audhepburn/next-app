@@ -7,7 +7,7 @@ export default function Component() {
 
   // 添加点击事件处理函数
   const handleClick = () => {
-    setMessage("Random Result")
+    setMessage("Lotte")
   }
 
   return (
