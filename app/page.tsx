@@ -7,7 +7,7 @@ export default function Component() {
 
   // 添加点击事件处理函数
   const handleClick = () => {
-    setMessage("你点击了按钮！")
+    setMessage("Random Result")
   }
 
   return (
