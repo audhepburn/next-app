@@ -23,7 +23,7 @@ export default function Component() {
         <button onClick={handleClick}
           className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors"
         >
-          Whatever it is
+          Section review
         </button>
         {message && <p className="mt-4 text-lg">{message}</p>} {/* 显示消息 */}
       </main>
